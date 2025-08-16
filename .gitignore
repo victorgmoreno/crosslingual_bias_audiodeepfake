@@ -1,0 +1,59 @@
+dataset/
+SSL_Anti-spoofing/models/
+dl-29_backup/spoof/SSL_Anti-spoofing/xlsr2_300m.ptSSL_Anti-spoofing/xlsr2_300m.pt
+*.tfevents.*
+
+
+# modelos/pesos e checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+runs/
+logs/
+tensorboard/
+# dados e saídas
+data/
+datasets/
+outputs/
+results/
+*.wav
+*.flac
+*.mp3
+# notebooks checkpoints e caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+# IDE
+.vscode/
+.idea/
+EOF
+
+# === Datasets ===
+dataset/
+EDA_dataset/
+mailabs_evaluation_results/
+mlaad_evaluation_results/
+
+# === Pesos de modelos e checkpoints ===
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.tar
+*.tgz
+*.gz
+*.zip
+
+# === Experimentos / saídas ===
+logs/
+runs/
+outputs/
+results_numbers/
+
+# === Cache e IDE ===
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
