@@ -4,7 +4,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official implementation of **"Revealing Cross-Lingual Bias in Synthetic Speech Detection under Controlled Conditions"**
+Implementation of **"Revealing Cross-Lingual Bias in Synthetic Speech Detection under Controlled Conditions"**
+
+> **Note**: The official implementation is available at [AI-Unicamp/crosslingual_bias_audiodeepfake](https://github.com/AI-Unicamp/crosslingual_bias_audiodeepfake). This repository contains the complete codebase for reproducing our results.
 
 Victor Moreno¹, João Lima¹, Flávio Simões², Ricardo Violato², Mário Uliani Neto², Fernando Runstein², Paula Costa¹
 
