@@ -1,0 +1,300 @@
+{
+  "overall": {
+    "total_files": 154000,
+    "avg_score": 0.5392702747015334,
+    "high_conf_count": 72310,
+    "high_conf_ratio": 0.46954545454545454
+  },
+  "by_language": {
+    "en": {
+      "count": 36000,
+      "avg_score": 0.6110769293320103,
+      "std_dev": 0.4539151502030526,
+      "high_conf_ratio": 0.5410555555555555
+    },
+    "de": {
+      "count": 9000,
+      "avg_score": 0.7088770309338439,
+      "std_dev": 0.42125415673917777,
+      "high_conf_ratio": 0.6425555555555555
+    },
+    "fr": {
+      "count": 8000,
+      "avg_score": 0.4785182620048987,
+      "std_dev": 0.4763503881794314,
+      "high_conf_ratio": 0.4295
+    },
+    "it": {
+      "count": 8000,
+      "avg_score": 0.39195372424739755,
+      "std_dev": 0.4555967449413869,
+      "high_conf_ratio": 0.328375
+    },
+    "es": {
+      "count": 7000,
+      "avg_score": 0.5358281084666047,
+      "std_dev": 0.47254963777461045,
+      "high_conf_ratio": 0.482
+    },
+    "pl": {
+      "count": 6000,
+      "avg_score": 0.613745759425342,
+      "std_dev": 0.44442875709351465,
+      "high_conf_ratio": 0.524
+    },
+    "zh-cn": {
+      "count": 5000,
+      "avg_score": 0.3222765887628995,
+      "std_dev": 0.4364196340132459,
+      "high_conf_ratio": 0.2618
+    },
+    "uk": {
+      "count": 5000,
+      "avg_score": 0.48574721697277534,
+      "std_dev": 0.4735799063116776,
+      "high_conf_ratio": 0.429
+    },
+    "ru": {
+      "count": 5000,
+      "avg_score": 0.7558424657931196,
+      "std_dev": 0.3882059028351538,
+      "high_conf_ratio": 0.6822
+    },
+    "hu": {
+      "count": 4000,
+      "avg_score": 0.6766667363548586,
+      "std_dev": 0.4096596021627075,
+      "high_conf_ratio": 0.568
+    },
+    "cs": {
+      "count": 4000,
+      "avg_score": 0.41932671981801367,
+      "std_dev": 0.4479001151205025,
+      "high_conf_ratio": 0.32825
+    },
+    "tr": {
+      "count": 4000,
+      "avg_score": 0.37076250734268446,
+      "std_dev": 0.4444746540228317,
+      "high_conf_ratio": 0.297
+    },
+    "pt": {
+      "count": 4000,
+      "avg_score": 0.3032512878847162,
+      "std_dev": 0.42120087971220876,
+      "high_conf_ratio": 0.23375
+    },
+    "nl": {
+      "count": 4000,
+      "avg_score": 0.5852105680957616,
+      "std_dev": 0.43796393257358135,
+      "high_conf_ratio": 0.47475
+    },
+    "ro": {
+      "count": 3000,
+      "avg_score": 0.7661803794964929,
+      "std_dev": 0.37824786512583414,
+      "high_conf_ratio": 0.686
+    },
+    "ja": {
+      "count": 3000,
+      "avg_score": 0.36023846410421356,
+      "std_dev": 0.43711563106953305,
+      "high_conf_ratio": 0.281
+    },
+    "ar": {
+      "count": 3000,
+      "avg_score": 0.43293639816252777,
+      "std_dev": 0.445981177635497,
+      "high_conf_ratio": 0.3343333333333333
+    },
+    "bn": {
+      "count": 3000,
+      "avg_score": 0.928689825003456,
+      "std_dev": 0.23371951358477355,
+      "high_conf_ratio": 0.904
+    },
+    "fi": {
+      "count": 3000,
+      "avg_score": 0.6811904576488477,
+      "std_dev": 0.42261066306045453,
+      "high_conf_ratio": 0.6
+    },
+    "el": {
+      "count": 2000,
+      "avg_score": 0.6782071445364779,
+      "std_dev": 0.422927995938208,
+      "high_conf_ratio": 0.5975
+    },
+    "et": {
+      "count": 2000,
+      "avg_score": 0.5908276566640066,
+      "std_dev": 0.4370502928865992,
+      "high_conf_ratio": 0.483
+    },
+    "da": {
+      "count": 2000,
+      "avg_score": 0.3943796852700496,
+      "std_dev": 0.4723901141382593,
+      "high_conf_ratio": 0.361
+    },
+    "sv": {
+      "count": 2000,
+      "avg_score": 0.42464916191855284,
+      "std_dev": 0.47489385829954905,
+      "high_conf_ratio": 0.383
+    },
+    "sk": {
+      "count": 2000,
+      "avg_score": 0.42629241039828913,
+      "std_dev": 0.4746315685626312,
+      "high_conf_ratio": 0.3855
+    },
+    "hi": {
+      "count": 2000,
+      "avg_score": 0.5261515391509479,
+      "std_dev": 0.4573895271104771,
+      "high_conf_ratio": 0.4415
+    },
+    "ko": {
+      "count": 2000,
+      "avg_score": 0.42058519449517323,
+      "std_dev": 0.45339872832860134,
+      "high_conf_ratio": 0.336
+    },
+    "fa": {
+      "count": 2000,
+      "avg_score": 0.412708206111299,
+      "std_dev": 0.47262846703272066,
+      "high_conf_ratio": 0.3705
+    },
+    "ga": {
+      "count": 2000,
+      "avg_score": 0.39957934969421083,
+      "std_dev": 0.4741203665327628,
+      "high_conf_ratio": 0.3665
+    },
+    "mt": {
+      "count": 2000,
+      "avg_score": 0.5352989948359969,
+      "std_dev": 0.4583296797904222,
+      "high_conf_ratio": 0.4575
+    },
+    "bg": {
+      "count": 2000,
+      "avg_score": 0.4731303335147397,
+      "std_dev": 0.4662148351635542,
+      "high_conf_ratio": 0.406
+    },
+    "sl": {
+      "count": 1000,
+      "avg_score": 0.17158541116850484,
+      "std_dev": 0.32554812378672376,
+      "high_conf_ratio": 0.096
+    },
+    "lv": {
+      "count": 1000,
+      "avg_score": 0.05288563215577187,
+      "std_dev": 0.1884856876247179,
+      "high_conf_ratio": 0.028
+    },
+    "sw": {
+      "count": 1000,
+      "avg_score": 0.47920039656719016,
+      "std_dev": 0.413360757644286,
+      "high_conf_ratio": 0.305
+    },
+    "th": {
+      "count": 1000,
+      "avg_score": 0.8748172225679045,
+      "std_dev": 0.29094954692814684,
+      "high_conf_ratio": 0.822
+    },
+    "tk": {
+      "count": 1000,
+      "avg_score": 0.8738998810666817,
+      "std_dev": 0.29152269913520673,
+      "high_conf_ratio": 0.813
+    },
+    "lt": {
+      "count": 1000,
+      "avg_score": 0.4898084907776665,
+      "std_dev": 0.424036610438717,
+      "high_conf_ratio": 0.331
+    },
+    "vi": {
+      "count": 1000,
+      "avg_score": 0.004732898380469805,
+      "std_dev": 0.05735302423258064,
+      "high_conf_ratio": 0.001
+    },
+    "hr": {
+      "count": 1000,
+      "avg_score": 0.013453869104146178,
+      "std_dev": 0.10011834206388412,
+      "high_conf_ratio": 0.008
+    }
+  },
+  "by_model": {
+    "tts_models_multilingual_multi-dataset_bark": {
+      "count": 32000,
+      "avg_score": 0.8105420892372642,
+      "std_dev": 0.34915264013922204,
+      "high_conf_ratio": 0.74084375
+    },
+    "tts_models_multilingual_multi-dataset_xtts_v2": {
+      "count": 17000,
+      "avg_score": 0.40968341367437233,
+      "std_dev": 0.4231249075959984,
+      "high_conf_ratio": 0.27488235294117647
+    },
+    "tts_models_multilingual_multi-dataset_xtts_v1.1": {
+      "count": 14000,
+      "avg_score": 0.2635326867570291,
+      "std_dev": 0.3904517359484644,
+      "high_conf_ratio": 0.17664285714285713
+    },
+    "griffin_lim": {
+      "count": 8000,
+      "avg_score": 0.989512015259481,
+      "std_dev": 0.08274144680616524,
+      "high_conf_ratio": 0.981125
+    },
+    "OpenVoiceV2": {
+      "count": 4000,
+      "avg_score": 0.09599391970901319,
+      "std_dev": 0.26980321067882074,
+      "high_conf_ratio": 0.0685
+    },
+    "vixTTS": {
+      "count": 2000,
+      "avg_score": 0.010328302077326157,
+      "std_dev": 0.08460425387255857,
+      "high_conf_ratio": 0.004
+    },
+    "WhisperSpeech": {
+      "count": 2000,
+      "avg_score": 0.16939228038037207,
+      "std_dev": 0.33113624029141686,
+      "high_conf_ratio": 0.105
+    },
+    "tts_models_fa_custom_glow-tts": {
+      "count": 1000,
+      "avg_score": 0.014402070633572748,
+      "std_dev": 0.11144728809509671,
+      "high_conf_ratio": 0.011
+    },
+    "tts_models_hr_cv_vits": {
+      "count": 1000,
+      "avg_score": 0.013453869104146178,
+      "std_dev": 0.10011834206388412,
+      "high_conf_ratio": 0.008
+    },
+    "tts_models_ga_cv_vits": {
+      "count": 1000,
+      "avg_score": 0.005408011126667134,
+      "std_dev": 0.06637377644275494,
+      "high_conf_ratio": 0.003
+    }
+  }
+}

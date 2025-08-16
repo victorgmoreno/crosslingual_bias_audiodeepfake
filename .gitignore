@@ -31,9 +31,7 @@ EOF
 
 # === Datasets ===
 dataset/
-EDA_dataset/
-mailabs_evaluation_results/
-mlaad_evaluation_results/
+
 
 # === Pesos de modelos e checkpoints ===
 *.pt
